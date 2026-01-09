@@ -1,5 +1,5 @@
 import styled from "styled-components";
-
+import React from "react";
 import { useMoveBack } from "../hooks/useMoveBack";
 import Heading from "../ui/Heading";
 
